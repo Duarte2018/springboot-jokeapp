@@ -4,4 +4,7 @@ This Spring Boot web application displays a random Chuck Norris joke on the inde
 
 ### Spring boot concepts in this project
 
-- Dependency injection
+- Dependency injection (constructor based)
+- Thymeleaf template
+- text banner customization
+- MVC
