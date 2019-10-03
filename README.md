@@ -9,3 +9,5 @@ This Spring Boot web application displays a random Chuck Norris joke on the inde
 - text banner customization
 - MVC
 - web app
+- java configuration example
+- xml configuration example
