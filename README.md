@@ -8,3 +8,4 @@ This Spring Boot web application displays a random Chuck Norris joke on the inde
 - Thymeleaf template
 - text banner customization
 - MVC
+- web app
